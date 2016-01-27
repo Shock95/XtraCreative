@@ -1,2 +1,4 @@
 # XtraCreative-for-ImagicalMine
-This plugin extends the creative menu with secret, hidden blocks!
+This plugin extends the creative menu with secret, hidden items!
+
+- This plugin is a modification of a plugin named "MoreCreative" by Jelly9912
