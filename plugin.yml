@@ -1,0 +1,6 @@
+name: XtraCreative
+version: 1.0
+api: [1.12.0]
+author: XShockinFireX
+main: XtraCreative\XtraCreative
+description: More And Extra Stuff In The Creative Inventory!
