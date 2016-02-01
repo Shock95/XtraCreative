@@ -39,7 +39,8 @@ class XtraCreative extends PluginBase implements Listener {
     item::addCreativeItem(Item::get(245, 0));
     item::addCreativeItem(Item::get(247, 0));
     item::addCreativeItem(Item::get(247, 1));
-    item::addCreativeItem(Item::get(247, 2));
+    item::addCreativeItem(Item::get(247, 3));
+    item::addCreativeItem(Item::get(162, 2));
   }
   public function onDisable() {
     $this->getLogger()->info("Disabled");
