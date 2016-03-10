@@ -2,10 +2,10 @@
 
 namespace XtraCreative;
 
-use pocketmine\plugin\PluginBase;
-use pocketmine\item\Item;
-use pocketmine\event\Listener;
-use pocketmine\Player;
+use BukkitPE\plugin\PluginBase;
+use BukkitPE\item\Item;
+use BukkitPE\event\Listener;
+use BukkitPE\Player;
 
 class XtraCreative extends PluginBase implements Listener {
   
