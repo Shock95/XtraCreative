@@ -8,9 +8,10 @@ class XtraCreative extends PluginBase {
   
   public function onEnable() {
     $this->getLogger()->info("XtraCreative has been enabled.");
+    $this->registerItems();
   }
   
-  public function onEnable() {
+  public function registerItems() {
     item::addCreativeItem(Item::get(62, 0));
     item::addCreativeItem(Item::get(63, 0));
     item::addCreativeItem(Item::get(116, 0));
